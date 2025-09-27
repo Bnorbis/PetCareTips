@@ -20,6 +20,7 @@ O objetivo é fornecer dicas básicas de cuidados, expectativa de vida e informa
 - [Vite](https://vitejs.dev/)
 - [React-Bootstrap](https://react-bootstrap.github.io/)
 - [The Dog API](https://thedogapi.com/) / [The Cat API](https://thecatapi.com/)
+- [useMemo](https://react.dev/reference/react/useMemo) 
 
 ## Imagens da aplicação
 <img width="1116" height="635" alt="image" src="https://github.com/user-attachments/assets/c50dca52-3775-4dac-aa3b-d97e0485d018" />
