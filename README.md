@@ -3,6 +3,8 @@
 Aplicação web desenvolvida como parte do **Projeto 1 da disciplina Programação Web Fullstack (ES47B-ES71)**.  
 O objetivo é fornecer dicas básicas de cuidados, expectativa de vida e informações sobre raças de cães e gatos, utilizando uma **SPA (Single Page Application)** em React.js.
 
+🔗 **Acesse a aplicação aqui:** [PetCare Tips](https://dj4g9f72f15q1.cloudfront.net/)
+
 ---
 
 ## 🚀 Funcionalidades
@@ -29,9 +31,9 @@ O objetivo é fornecer dicas básicas de cuidados, expectativa de vida e informa
 <img width="1142" height="648" alt="image" src="https://github.com/user-attachments/assets/2cccf59f-e074-4b32-9669-dfda54affa7d" />
 
 ## Por que PetCare Tips?
-Os desenvolvedores do projeto são Bruna Naian e Vinicius Neia.
-Bruna é apaixonada por raças caninas e felinas e por suas funções. Estuda cinofilia por hobby há mais de 10 anos e já cursou Medicina Veterinária. Movida pelo desejo de unir conhecimento e inovação, busca revolucionar o mercado pet por meio da tecnologia.
-Ao seu lado está Vinicius, grande amigo e incentivador, que acompanha de perto seus estudos cinófilos e compartilha desse propósito.
+Os desenvolvedores do projeto são Bruna Naian e Vinicius Neia.  
+Bruna é apaixonada por raças caninas e felinas e por suas funções. Estuda cinofilia por hobby há mais de 10 anos e já cursou Medicina Veterinária. Movida pelo desejo de unir conhecimento e inovação, busca revolucionar o mercado pet por meio da tecnologia.  
+Ao seu lado está Vinicius, grande amigo e incentivador, que acompanha de perto seus estudos cinófilos e compartilha desse propósito.  
 Juntos, eles criaram este projeto com a missão de, de forma simples e acessível, espalhar e compartilhar informações sobre a cinofilia, uma ciência tão fascinante e ainda pouco conhecida.
 
 # React + Vite
@@ -41,7 +43,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Expanding the ESLint configuration
 
